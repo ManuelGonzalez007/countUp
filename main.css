@@ -1,0 +1,33 @@
+            
+body {
+    background-color: black;
+}
+
+#btnPlayPause {
+    display: block;
+    margin: auto;
+    font-size: 40px;
+}
+
+#btnRestart {
+    display: block;
+    margin: auto;
+    font-size: 20px;
+    background-color: white;
+}
+
+#seconds {
+    font-size: 50px;
+}
+
+p {
+    text-align: center;
+    font-size: 30px;
+    color: white;
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 400px;
+}
